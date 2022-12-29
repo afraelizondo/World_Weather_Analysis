@@ -14,5 +14,5 @@ The final outputs are the maps showing the information from all the vacation spo
 1. Minimum desired temperature
 2. Maximum desired temperature
 
-To perform this project, we used Python, Pandas, Matplotlib and SciPy Statistics. 
+To perform this project, we used Python, Pandas, Matplotlib and SciPy Statistics.
 
